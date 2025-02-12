@@ -52,9 +52,6 @@ lib/
 ![Screenshot 2025-02-12 at 3 59 37 PM](https://github.com/user-attachments/assets/67b513cf-ea92-4598-879e-634bfbc3434a)
 ![Screenshot 2025-02-12 at 4 00 18 PM](https://github.com/user-attachments/assets/ac8a47bd-0186-41df-a07d-096e3700db1f)
 
-
-*(Insert Dark mode screenshot here)*
-
 ## 🛠️ Technologies Used
 
 - **Flutter** (Dart)
