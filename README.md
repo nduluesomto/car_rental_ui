@@ -61,11 +61,6 @@ lib/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 UI Design inspiration from Dribble ([https://dribbble.com/shots/25394736-Car-Rental-Application](https://dribbble.com/shots/25394736-Car-Rental-Application))
